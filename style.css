@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+}
+
+.co{
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+
+}
